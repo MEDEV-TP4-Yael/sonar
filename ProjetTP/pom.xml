@@ -8,7 +8,9 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
-        <exec.mainClass>org.centrale.objet.WoE.ProjetTP</exec.mainClass>
-        <sonar.organization>ec-nantes</sonar.organization>
+        <exec.mainClass>org.centrale.jeudame.JeuDame</exec.mainClass>
+        <sonar.organization>medev-tp4-yael</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <maven.compiler.release>17</maven.compiler.release>
     </properties>
 </project>
